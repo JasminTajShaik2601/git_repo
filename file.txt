@@ -1,2 +1,22 @@
-This is the file I created to learn git.
+Jupiter:
+
+Jupiter is the biggest planet in our solar system
+
+In our solar system, we have 8 planets as follows
+
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Utanus
+Neptune
+Pluto
+
+Ofcourse Pluto is not a planet!
+
+
+My most favourite planet is after Earth is Jupitr, due to so many reasons. 
+
 
